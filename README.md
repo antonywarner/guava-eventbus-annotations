@@ -1,4 +1,4 @@
 # guava-eventbus-annotations
 Convenience annotations for Guava EventBus publishers and subscribers
 
-![https://travis-ci.org/antonywarner/guava-eventbus-annotations](https://travis-ci.org/antonywarner/guava-eventbus-annotations.svg?branch=master)
+[![Travis CI Build Status](https://travis-ci.org/antonywarner/guava-eventbus-annotations.png)](https://travis-ci.org/https://travis-ci.org/antonywarner/guava-eventbus-annotations)
