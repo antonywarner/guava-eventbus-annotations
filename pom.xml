@@ -28,7 +28,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-aop</artifactId>
-			<version>4.1.7.RELEASE</version>
+			<version>4.3.30.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework</groupId>
@@ -43,7 +43,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-aspects</artifactId>
-			<version>4.1.7.RELEASE</version>
+			<version>4.3.30.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>javax.inject</groupId>
@@ -76,7 +76,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-test</artifactId>
-			<version>4.1.7.RELEASE</version>
+			<version>4.3.30.RELEASE</version>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
